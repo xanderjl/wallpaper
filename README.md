@@ -25,7 +25,3 @@ or
 ```
 green, street car
 ```
-
-## Open Source
-
-This program currently only works on windows machines, but I've left the source code to be tinkered with. See what you can make with it and enjoy using my answer to choice paralysis.
